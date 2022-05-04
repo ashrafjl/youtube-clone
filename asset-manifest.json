@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.b52b0d4e.css",
-    "main.js": "/react-gh-pages/static/js/main.e75ae92e.js",
-    "static/media/youtubelogo.png": "/react-gh-pages/static/media/youtubelogo.a5cac04f0946642798bc.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.b52b0d4e.css.map": "/react-gh-pages/static/css/main.b52b0d4e.css.map",
-    "main.e75ae92e.js.map": "/react-gh-pages/static/js/main.e75ae92e.js.map"
+    "main.css": "/youtube-clone/static/css/main.b52b0d4e.css",
+    "main.js": "/youtube-clone/static/js/main.11c504b7.js",
+    "static/media/youtubelogo.png": "/youtube-clone/static/media/youtubelogo.a5cac04f0946642798bc.png",
+    "index.html": "/youtube-clone/index.html",
+    "main.b52b0d4e.css.map": "/youtube-clone/static/css/main.b52b0d4e.css.map",
+    "main.11c504b7.js.map": "/youtube-clone/static/js/main.11c504b7.js.map"
   },
   "entrypoints": [
     "static/css/main.b52b0d4e.css",
-    "static/js/main.e75ae92e.js"
+    "static/js/main.11c504b7.js"
   ]
 }

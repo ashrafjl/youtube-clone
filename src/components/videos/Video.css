@@ -1,0 +1,37 @@
+.video{
+    margin-top: 8px;
+    cursor: pointer;
+}
+.video .MuiPaper-root{
+    background-color: #f9f9f9 !important;
+}
+.video_thumbnail{
+    position: relative;
+}
+.video_thumbnail .video_time{
+    position: absolute;
+    bottom: -11px;
+    right: .3rem;
+    background-color: rgba(43, 43, 43, 0.8);
+    color: white;
+    padding: 0 4px;
+    font-size: 12px;
+}
+.video_thumbnail img{
+    width: 100%;
+}
+.video_content{
+    display: flex;
+    gap: 15px;
+    margin-top: 8px;
+}
+.video_title_container p{
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.video .video_title{
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}

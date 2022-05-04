@@ -1,0 +1,13 @@
+.skeleton_bottom{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+}
+.skeleton_bottom > div:first-child{
+    width: 10%;
+}
+.skeleton_bottom > div:last-child{
+    width: 90%;
+}

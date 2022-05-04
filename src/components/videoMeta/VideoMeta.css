@@ -1,0 +1,42 @@
+.video_meta{
+
+}
+.video_data_top{
+
+}
+.video_data_top span{
+    cursor: pointer;
+}
+.channel_views{
+
+}
+.video_data_channel{
+    border-top: 0.2px solid #ccc;
+    border-bottom: 0.2px solid #ccc;
+}
+.video_data_channel button{
+    background-color: #CC0000;
+    color: #fff;
+    border-radius: 0px !important;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    outline: none !important;
+    border: 0px !important;
+}
+.video_data_channel .btn:hover{
+    color:  #fff;
+}
+.video_data_channel .btn:focus {
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+
+  }
+.video_data_description{
+    font-size: 0.9rem;
+    white-space: pre-line;
+    border-bottom: 0.2px solid #ccc;
+}
+.thmumb_up{
+    margin-left: 20px;
+}

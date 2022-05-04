@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.b52b0d4e.css",
+    "main.js": "/react-gh-pages/static/js/main.e75ae92e.js",
+    "static/media/youtubelogo.png": "/react-gh-pages/static/media/youtubelogo.a5cac04f0946642798bc.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.b52b0d4e.css.map": "/react-gh-pages/static/css/main.b52b0d4e.css.map",
+    "main.e75ae92e.js.map": "/react-gh-pages/static/js/main.e75ae92e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b52b0d4e.css",
+    "static/js/main.e75ae92e.js"
+  ]
+}
